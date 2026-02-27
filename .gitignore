@@ -4,7 +4,7 @@
 /build/
 
 # Ignorar respaldos de base de datos grandes (opcional)
-*.sql
+# *.sql
 
 # Ignorar archivos temporales de Windows
 Thumbs.db
