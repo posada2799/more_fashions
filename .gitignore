@@ -1,0 +1,11 @@
+# Ignorar archivos de configuración de NetBeans
+/nbproject/
+/dist/
+/build/
+
+# Ignorar respaldos de base de datos grandes (opcional)
+*.sql
+
+# Ignorar archivos temporales de Windows
+Thumbs.db
+Desktop.ini
